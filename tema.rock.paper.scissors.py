@@ -1,5 +1,5 @@
 import random
-# My first Repository
+# My first Repo
 # Rock-Paper-Scissors-Lizard-Spock
 
 person = input("Enter your name: ")
