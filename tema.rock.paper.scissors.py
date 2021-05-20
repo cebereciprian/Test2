@@ -1,6 +1,7 @@
 import random
 # My first Repository
-# Rock-Paper-Scissors-Lizard-Spocks
+# Rock-Paper-Scissors-Lizard-Spock
+#aasrrsa
 
 person = input("Enter your name: ")
 print("Hello!!! Welcome to my game", person)
