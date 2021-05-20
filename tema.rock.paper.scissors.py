@@ -1,5 +1,7 @@
 import random
 
+# Rock-Paper-Scissors-Lizard-Spock
+
 person = input("Enter your name: ")
 print("Hello!!! Welcome to my game", person)
 
